@@ -1,0 +1,13 @@
+/*  */
+/* top bar stylings */
+.top-bar h3{
+    color: rgb(221, 15, 204);
+    font-weight: 500;
+}
+.top-bar a{
+    color: purple;
+}
+.top-bar a:hover{
+    color: red;
+}
+/* top bar stylings */
